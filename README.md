@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Software Engineer with 5 years experience delivering production web applications in geospatial, AI, SaaS, and enterprise domains. Led the development of a scalable SvelteKit frontend for AI-driven mapping products, cutting feature delivery time by 25% and boosting performance through lazy loading and code splitting. Seeking to apply full-stack expertise to build high-impact, maintainable software that drives user adoption and business growth.
+Software Engineer with nearly 5 years of experience designing and delivering production web applications across geospatial, AI, SaaS and enterprise platforms. Strong expertise in frontend architecture, reusable component systems and performance optimization, with growing experience building full-stack applications. Passionate about building maintainable software that scales, improving developer experience through reusable architecture, and owning features from product design through deployment.
 
 - 🏢 Based in **Nairobi, Kenya**
 - 🌱 Currently learning **Python, FastAPI**
