@@ -16,9 +16,9 @@
 
 I'm a **Software Engineer** with **5 years of experience** building modern web applications across SaaS, AI, geospatial, and enterprise platforms.
 
-My foundation is **Frontend Engineering**, where I specialize in building performant, accessible, and scalable applications using **React**, **TypeScript**, **Next.js**, and **SvelteKit**.
+My foundation is **Frontend Development**, where I specialize in building performant, accessible, and scalable applications using **React**, **TypeScript**, **Next.js**, and **SvelteKit**.
 
-More recently, I've expanded into **Backend Engineering**, building production APIs with **Python**, **FastAPI**, **PostgreSQL**, and **SQLAlchemy**, allowing me to own products from architecture and database design through deployment.
+More recently, I've expanded into **Backend Development**, building production APIs with **Python**, **FastAPI**, **PostgreSQL**, and **SQLAlchemy**, allowing me to own products from architecture and database design through deployment.
 
 I enjoy solving complex engineering problems, designing maintainable systems, and transforming ambitious ideas into products that deliver real-world value.
 
