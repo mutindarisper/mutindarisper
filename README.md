@@ -110,7 +110,6 @@ React • TypeScript • FastAPI • PostgreSQL • React Query
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white)](https://rispermutinda.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/risper-mutuku-1b5647154/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mutindarisper)
 [![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gymgirl.codes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutindarisper@gmail.com)
 
