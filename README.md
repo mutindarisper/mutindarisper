@@ -24,7 +24,7 @@ I enjoy solving complex engineering problems, designing maintainable systems, an
 
 - 🌍 Based in **Nairobi, Kenya**
 - 💻 Currently building **full-stack applications with React & FastAPI**
-- 🏗️ Passionate about **Frontend Architecture, System Design & Developer Experience**
+- 🏗️ Passionate about **Software Architecture, System Design & User Experience**
 - 🚀 Always learning and shipping
 - ☕ Powered by coffee and terrible puns
 
