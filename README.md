@@ -57,6 +57,11 @@ I enjoy solving complex engineering problems, designing maintainable systems, an
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Monitoring & Observability
+
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
+
 ### Design & Mapping
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -85,7 +90,7 @@ A modern delivery management platform that enables businesses to manage orders, 
 
 **Tech Stack**
 
-React • TypeScript • FastAPI • PostgreSQL • React Query
+React • TypeScript • FastAPI • PostgreSQL • React Query • Sentry
 
 
 
