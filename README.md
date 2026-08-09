@@ -12,7 +12,7 @@
 </div>
 
 
-## 🚀 About Me
+## 👩🏾‍💻About Me 
 
 I'm a **Software Engineer** with **5 years of experience** building modern web applications across SaaS, AI, geospatial, and enterprise platforms.
 
