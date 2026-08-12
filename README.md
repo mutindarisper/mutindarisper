@@ -94,22 +94,13 @@ React • TypeScript • FastAPI • PostgreSQL • React Query • Sentry
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mutindarisper&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutindarisper&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</p>
+<img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=mutindarisper&theme=dark&hide_border=true"
+  alt="Risper's GitHub Streak"
+/>
 
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mutindarisper&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
 
 ## 🤝 Let's Connect 
 
