@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/hologram.gif" width="280" alt="Risper Hologram" />
+
 
 ### Hey, I'm Risper 👋
 
