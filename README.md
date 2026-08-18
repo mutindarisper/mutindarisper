@@ -3,7 +3,7 @@
 
 
 
-### Hey, I'm Risper 👋
+### Hey, I'm Risper
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Frontend+Engineer;Building+Products+End-to-End;React+%7C+TypeScript+%7C+FastAPI;Designing+Scalable+Software)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 </div>
 
 
-## 👩🏾‍💻About Me 
+## About Me 
 
 I'm a **Software Engineer** with **5 years of experience** building modern web applications across SaaS, AI, geospatial, and enterprise platforms.
 
