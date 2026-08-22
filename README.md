@@ -73,7 +73,7 @@ I enjoy solving complex engineering problems, designing maintainable systems, an
 
 ## 🚀 Featured Projects
 
-### 🎨 [Modulr](https://superb-dolphin-2dbf88.netlify.app/?path=/docs/changelog--docs)
+### 🎨 [Modulr](https://modulrui.netlify.app/?path=/docs/navigation-avatar--docs)
 
 A reusable React component library built with Storybook and TypeScript, focused on consistency, accessibility, and developer experience.
 
