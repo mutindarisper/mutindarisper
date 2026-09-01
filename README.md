@@ -22,14 +22,6 @@ More recently, I've expanded into **Backend Development**, building production A
 
 I enjoy solving complex engineering problems, designing maintainable systems, and transforming ambitious ideas into products that deliver real-world value.
 
-- 🌍 Based in **Nairobi, Kenya**
-- 💻 Currently building **full-stack applications with React & FastAPI**
-- 🏗️ Passionate about **Software Architecture, System Design & User Experience**
-- 🚀 Always learning and shipping
-- ☕ Powered by coffee and terrible puns
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
