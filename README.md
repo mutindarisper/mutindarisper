@@ -105,6 +105,5 @@ React • TypeScript • FastAPI • PostgreSQL • React Query • Sentry
 
 > *“Great software isn't just built. It's thoughtfully engineered.”*
 
-⭐ Thanks for stopping by!
 
 
