@@ -42,7 +42,7 @@ I enjoy solving complex engineering problems, designing maintainable systems, an
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
 
-### Cloud & DevOps
+### Infra
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
