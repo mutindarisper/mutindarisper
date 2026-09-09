@@ -54,9 +54,11 @@ I enjoy solving complex engineering problems, designing maintainable systems, an
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 
-### Design & Mapping
+### Design 
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Data Visualization 
 ![Mapbox](https://img.shields.io/badge/Mapbox-000?style=for-the-badge&logo=mapbox)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs)
