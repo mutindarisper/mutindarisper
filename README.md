@@ -54,7 +54,7 @@ I enjoy solving complex engineering problems, designing maintainable systems, an
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 
-### Design 
+### UI/UX Design 
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
